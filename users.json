@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Abinash",
+    "email": "abinashmishraofficial59@gmail.com",
+    "password": "Abinash@123",
+    "phone": "7978353747"
+  },
+  {
+    "id": 2,
+    "name": "Prabhakar",
+    "email": "prabh123@gmail.com",
+    "password": "Prabh@123",
+    "phone": "8278988772"
+  },
+  {
+    "id": 3,
+    "name": "Pranav",
+    "email": "pranavkumar123@gmail.com",
+    "password": "Pranav@123",
+    "phone": "9437762110"
+  },
+  {
+    "id": 4,
+    "name": "Rachit",
+    "email": "rachit123@gmail.com",
+    "password": "Rachit@123",
+    "phone": "7008254672"
+  },
+  {
+    "id": 5,
+    "name": "Ashutosh",
+    "email": "ashutosh123@gmail.com",
+    "password": "Ashutosh@123",
+    "phone": "9078378262"
+  }
+]
